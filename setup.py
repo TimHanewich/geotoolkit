@@ -5,7 +5,7 @@ with open("readme.md", "r") as f:
     long_desc:str = f.read()
 
 setup(name='geotoolkit',
-    version='0.1.0',
+    version='0.2.0',
     description='Peforming calculations with geographic points',
     long_description=long_desc,
     author='Tim Hanewich',
