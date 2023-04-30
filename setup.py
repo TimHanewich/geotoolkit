@@ -8,6 +8,7 @@ setup(name='geotoolkit',
     version='0.2.0',
     description='Peforming calculations with geographic points',
     long_description=long_desc,
+    long_description_content_type='text/markdown',
     author='Tim Hanewich',
     url='https://github.com/TimHanewich/geotoolkit',
     packages=setuptools.find_packages()
